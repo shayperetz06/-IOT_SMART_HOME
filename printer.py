@@ -14,8 +14,8 @@ clientname="PRINTER"+str(r)
 DHT_topic = 'pr/home/printer/5976397/sts'
 update_rate = 1000 # in msec
 # Initial values
-inkCount = 30
-pagesPrinted = 80
+inkCount = 150
+pagesPrinted = 850
 
 class Mqtt_client():
 

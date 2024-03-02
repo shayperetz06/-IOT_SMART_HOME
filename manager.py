@@ -40,7 +40,7 @@ def on_message(client, userdata, msg):
     if ink < 100:
         ic("ALERT: The ink is running dangerously low" + m_decode)
         send_msg(client, warning_topic, "ALERT: The ink is running dangerously low" + m_decode)
-    if pages > 1000:
+    if pages % 1000 == 0:
         ic("ALERT: Many pages have been printed; please ensure the machine is well-maintained and verify that everything is in proper order" + m_decode)
         send_msg(client, warning_topic, "ALERT: Many pages have been printed; please ensure the machine is well-maintained and verify that everything is in proper order" + m_decode)
 

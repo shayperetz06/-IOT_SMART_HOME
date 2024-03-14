@@ -16,3 +16,7 @@ The app will alert you how many pages can be printed and how much ink is left.
 Second, the app will alert you when the ink is about to run out.
 
 In addition, the app will alert you when more than a hundred pages have been printed in order to keep the printer properly maintained.
+
+
+## Architecture
+

@@ -25,10 +25,10 @@ In addition, the app will alert you when more than a hundred pages have been pri
 
 ## Links to presentation 
 
-Code presentation:
+Presentation:
 https://youtu.be/0vvLZQIdXHQ
 
-presentaion:
+Code presentaion:
 https://youtu.be/K_DMBVzLPV4
 
 ## How to run the app

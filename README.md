@@ -26,8 +26,7 @@ Make sure you have Python 3 installed on your machine
 ## Instructions
 
 1. Download the zip
-2. 
-3. Extract the project and press on runme.bat
+2. Extract the project and press on runme.bat
 
 ## Technologies
 

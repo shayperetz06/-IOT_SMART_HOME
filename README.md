@@ -18,5 +18,25 @@ Second, the app will alert you when the ink is about to run out.
 In addition, the app will alert you when more than a hundred pages have been printed in order to keep the printer properly maintained.
 
 
-## Architecture
+## How to run the app
 
+Make sure you have Python 3 installed on your machine
+
+
+## Instructions
+
+1. Download the zip
+2. 
+3. Extract the project and press on runme.bat
+
+## Technologies
+
+This app was built with the following technologies:
+
+Backend: MQTT
+
+DB: SQLite
+
+## Developers
+
+Shay Peretz | Yael Gonkiman 

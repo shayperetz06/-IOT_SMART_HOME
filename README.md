@@ -23,6 +23,14 @@ In addition, the app will alert you when more than a hundred pages have been pri
 
 <img width="1081" alt="archi22" src="https://github.com/shayperetz06/IOT_SMART_HOME/assets/100095704/7dde0034-e75a-4c12-b534-c7153b3b2eac">
 
+## Links to presentation 
+
+Code presentation:
+https://youtu.be/0vvLZQIdXHQ
+
+presentaion:
+https://youtu.be/K_DMBVzLPV4
+
 ## How to run the app
 
 Make sure you have Python 3 installed on your machine

@@ -17,6 +17,9 @@ Second, the app will alert you when the ink is about to run out.
 
 In addition, the app will alert you when more than a hundred pages have been printed in order to keep the printer properly maintained.
 
+## Architecture
+
+<img width="850" alt="archi" src="https://github.com/shayperetz06/IOT_SMART_HOME/assets/100095704/0c2aca65-cf74-4fd2-a39f-8ddc636a95cf">
 
 ## How to run the app
 
